@@ -1,0 +1,38 @@
+body {
+  background-color: #c3ddd4;
+  font-family: sans-serif;
+}
+
+main {
+  background-color: #ffffff;
+  border-radius: 16px;
+}
+
+nav ul li {
+  display: inline-block
+}
+
+#hero-content span {
+  color: pink;
+}
+
+#hero-content p {
+  font-size: 12px;
+}
+
+.cta {
+  border: 1px solid grey;
+  border-radius: 6px;
+  padding: 6px 16px;
+  text-decoration: none;
+}
+
+#hero-content .primary {
+  background-color: pink;
+  color: white;
+}
+
+#hero-content .secondary {
+  background-color: #efefef;
+  color: grey;
+}
